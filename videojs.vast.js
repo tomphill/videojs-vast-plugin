@@ -1,4 +1,4 @@
-(function(window, vjs, vast) {
+function videojsVast (window, vjs, vast) {
   'use strict';
 
   var extend = function(obj) {
